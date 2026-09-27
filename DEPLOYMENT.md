@@ -29,7 +29,7 @@ To successfully deploy this application, you must run **4 separate components** 
 ## 🌐 Step 2: Deploy the Web API (FastAPI)
 
 1. On your project canvas, click **+ New** -> **GitHub Repo**.
-2. Select your repository: `codeforlifeee/assignment`.
+2. Select your repository: `yash0260/assignment`.
 3. Railway will immediately detect the `Procfile` in your repository and begin building the web service. Click on this new service block.
 4. Go to the **Variables** tab for this Web Service.
 5. You must link your databases and secrets to this service. Click **New Variable**:
@@ -46,7 +46,7 @@ If you skip this step, simulating payments will fail because there will be no ba
 
 1. Go back to your main project canvas.
 2. Click **+ New** -> **GitHub Repo**.
-3. Select the **exact same** repository again: `codeforlifeee/assignment`. (Yes, you will have two identical blocks of your code on the canvas).
+3. Select the **exact same** repository again: `yash0260/assignment`. (Yes, you will have two identical blocks of your code on the canvas).
 4. Click on this new (second) service block.
 5. Go to the **Settings** tab.
 6. Scroll down to the **Deploy** section. Find the **Start Command** input field and type exactly this:
